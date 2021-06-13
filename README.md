@@ -77,6 +77,6 @@ recreational public areas etc.
 Project is:  _complete_
 
 Created by @krutikaGawde @SwahumGandhi @SiddheshDeshmukh @SurajJadhav
-![team-Deep-blue]()
+![team](https://user-images.githubusercontent.com/69894599/121797097-afd46080-cc3b-11eb-84dd-617ad8116f7e.jpg)
 
 
