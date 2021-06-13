@@ -61,8 +61,8 @@ up by triggering the actuators installed.
 - The system was meticulously tested in large number of
   public toilets including the worst-case conditions and the
   parameters were measured.
- 
- > <img align="center" src="https://i.ibb.co/k3XBwrW/Water-presence.gif" width="500" height="320" />
+- Water presence Check
+ > ![water-presence-check-min](https://user-images.githubusercontent.com/69894599/121799773-989d6f00-cc4b-11eb-9523-66f865e337b0.gif)
 
 
 ## Screenshots
