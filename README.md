@@ -85,7 +85,7 @@ recreational public areas etc.
 ## Project Status
 Project is:  _complete_
 
-Created by @krutikaGawde @SwahumGandhi @SiddheshDeshmukh @SurajJadhav
+Created by @SurajJadhav @SwahumGandhi @krutikaGawde  @SiddheshDeshmukh 
 > ![team (2)](https://user-images.githubusercontent.com/69894599/121797308-17d77680-cc3d-11eb-9794-1bbce00c2b90.jpg)
 
 
