@@ -2,7 +2,7 @@
 > The proposed system hereby deals with maintaining the hygiene
 and the usability of the public toilets on real time basis and
 generates an alert when the hygiene of the toilet deteriorates.
-> Live demo [_here_](https://www.example.com).
+> Live demo [_here_](https://drive.google.com/file/d/1_hBb8f5eJWkZmlJAcezGfxy5u8aJYZHY/view?usp=sharing).
 
 ## Technical paper publication
 > [©IETE-SF	Department	of	Electronics	and	Telecommunication
