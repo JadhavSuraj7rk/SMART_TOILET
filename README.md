@@ -10,7 +10,6 @@ generates an alert when the hygiene of the toilet deteriorates.
 * [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 
 ## General Information
 - Sanitation and Hygiene monitoring system for public toilets
@@ -77,6 +76,6 @@ recreational public areas etc.
 Project is:  _complete_
 
 Created by @krutikaGawde @SwahumGandhi @SiddheshDeshmukh @SurajJadhav
-![team (1)](https://user-images.githubusercontent.com/69894599/121797138-03df4500-cc3c-11eb-925f-7352a7e35ef4.jpg)
+![team (2)](https://user-images.githubusercontent.com/69894599/121797308-17d77680-cc3d-11eb-9794-1bbce00c2b90.jpg)
 
 
