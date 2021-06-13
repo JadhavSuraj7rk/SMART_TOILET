@@ -1,4 +1,4 @@
-# WASH ME- Web-Application Based Sanitation And Hygiene Monitoring Embedded System ![hardware](https://user-images.githubusercontent.com/69894599/121797940-f8424d00-cc40-11eb-944f-8b621302d1cb.png)
+# WASH ME- Web-Application Based Sanitation And Hygiene Monitoring Embedded System ![Trainyinfi-hardware-badge](https://user-images.githubusercontent.com/69894599/121798453-1d848a80-cc44-11eb-859b-5f27dff11e4f.png)
 > The proposed system hereby deals with maintaining the hygiene
 and the usability of the public toilets on real time basis and
 generates an alert when the hygiene of the toilet deteriorates.
