@@ -57,26 +57,26 @@ up by triggering the actuators installed.
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+### Prototype of Smart Toilet
+>![smart-toilet-system-prototype](https://user-images.githubusercontent.com/69894599/121796855-c679b800-cc39-11eb-8845-8d23de3b8214.png) 
+### WebApp
+> ![smart-toilet-webapp](https://user-images.githubusercontent.com/69894599/121796867-e90bd100-cc39-11eb-8e27-b9ba3acf14ca.png) ![smart-toilet-credit-point](https://user-images.githubusercontent.com/69894599/121796861-d5606a80-cc39-11eb-8da6-63b5fa48034c.png)
+> ![smart-toilet-message](https://user-images.githubusercontent.com/69894599/121796864-ddb8a580-cc39-11eb-805a-446b59bb79a2.png)
 
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+Can be deployed in urban slums which will be an initiative
+to eliminate open defecation.
+1. Can be installed as a part of smart city.
+2. Can be installed at the railway station, public parks,
+recreational public areas etc. 
 
 
 ## Project Status
 Project is:  _complete_
 
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by @krutikaGawde @SwahumGandhi @SiddheshDeshmukh @SurajJadhav
+![team-Deep-blue]()
 
 
