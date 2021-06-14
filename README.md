@@ -9,7 +9,7 @@ generates an alert when the hygiene of the toilet deteriorates.
 Engineering,	DJSCE
 DJ	SPARK 2020
 ISBN:978-93-5391-520-9	](https://pdfhost.io/v/Jb~H4Kg3T_DJSPARK_2020_Our_Paper_Publishedpdf.pdf)
-
+(page no:32)
 
 ## Table of Contents
 * [General Info](#general-information)
